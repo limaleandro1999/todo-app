@@ -22,6 +22,9 @@
     "assetBundlePatterns": [
       "**/*"
     ],
+    "android":{
+      "package": "com.leandro.todos"
+    },
     "ios": {
       "supportsTablet": true
     }
